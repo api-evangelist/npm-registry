@@ -1,0 +1,32 @@
+aid: npm-registry
+name: npm Registry
+description: "Query information about your favorite Node.js libraries programatically"
+url: https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: npm Registry
+    description: "Query information about your favorite Node.js libraries programatically"
+    humanURL: https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
+    baseURL: https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
+common:
+  - type: Website
+    url: https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
