@@ -39,7 +39,6 @@ apis:
   - name: npm Registry
     description: "Query information about your favorite Node.js libraries programatically"
     humanURL: https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
-    baseURL: https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
     tags:
       - Development
     properties:
